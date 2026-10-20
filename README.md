@@ -12,7 +12,7 @@ A simple full-stack e-commerce web application built with Node.js and Express.
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
-- Database: (SQLite / MongoDB / MySQL, jo use kiya ho)
+- Database: (SQLite
 
 ## Project Structure
 - `public/` : frontend files (HTML, CSS, JS)
